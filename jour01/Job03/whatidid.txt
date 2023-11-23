@@ -1,0 +1,3 @@
+J'ai suivi ce tutoriel pour installer les extensions nécéssaires pour faire tourner Python dans VSCodium
+
+https://opensource.com/article/22/11/python-vs-code-codium
